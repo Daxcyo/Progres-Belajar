@@ -1,13 +1,18 @@
-# Progres-Belajar
-20 Februari 2022
+# PengalamanBelajar
+
+Repository Ini Berisi Pengalaman Belajar di Dicoding
+
+
+**20 Februari 2022**  
+
 Belajar kelas Memulai Pemrograman dengan Javascript. (Progres 21%)
 
-* Belajar tentang apa itu Javascript dan alasan menggunakannya.
+  * Belajar tentang apa itu Javascript dan alasan menggunakannya.
 
-* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Javascript.
-* “Hari ini aku belajar bahasa pemrograman Javascript di Dicoding sebesar 21%. 
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Javascript.
 
-22 Februari 2022
+
+**23 Februari 2022**  
 
 Belajar kelas Memulai Pemrograman dengan Javascript. (Progres 56%)
 
